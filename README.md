@@ -4,7 +4,7 @@ Dummy rails app in order to illustrate a simple integration of rack middleware
 
 You can find the presentation here:
 
-https://docs.google.com/presentation/d/11NGuLCi2kW__5515WhvLihO2Jda9aR2GtUi4iGQjCc4/edit#slide=id.g35f391192_00
+https://docs.google.com/presentation/d/11NGuLCi2kW__5515WhvLihO2Jda9aR2GtUi4iGQjCc4/edit?usp=sharing
 
 And some gists with basic rack apps:
 
